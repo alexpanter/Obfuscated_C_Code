@@ -1,2 +1,2 @@
-# Obfuscated_C_Code
+# Obfuscated C Code
 My attempts at obfuscating scripts written in C
